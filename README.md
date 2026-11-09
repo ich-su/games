@@ -17,6 +17,5 @@
 * ![](https://github.com/ich-z/games/blob/main/screenshots/01.png)
 * ![](https://github.com/ich-z/games/blob/main/screenshots/11.png)
 * ![](https://github.com/ich-z/games/blob/main/screenshots/20.png)
-* ![](https://github.com/ich-z/games/blob/main/screenshots/03.png)
 
 [Больше скриншотов](https://games.ich.su/ru/?windows/)
