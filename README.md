@@ -7,4 +7,4 @@
 
 Скачать игры можно в [разделе релизов](./releases).
 
-Также существует безумный on-line вариант игр: https://games.ich.su
+Также существует безумный on-line вариант игр: [games.ich.su](https://games.ich.su)
