@@ -12,7 +12,7 @@
 
 Или на сайте [ich.su](https://games.ich.su/ru/?windows/). Там же больше информации.
 
-Также существует безумный on-line вариант игр: [games.ich.su](https://games.ich.su)
+Также существует безумный онлайн вариант игр: [games.ich.su](https://games.ich.su)
 
 Скриншоты:
 
