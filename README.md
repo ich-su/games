@@ -13,3 +13,9 @@
 Или на сайте [ich.su](https://games.ich.su/ru/?windows/).
 
 Также существует безумный on-line вариант игр: [games.ich.su](https://games.ich.su)
+
+![]([](https://github.com/ich-z/games/screenshots/01.png)
+![]([](https://github.com/ich-z/games/screenshots/11.png)
+![]([](https://github.com/ich-z/games/screenshots/20.png)
+
+[Больше скриншотов](https://games.ich.su/ru/?windows/)
