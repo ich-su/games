@@ -7,4 +7,6 @@
 
 Скачать игры можно в [разделе релизов](./releases).
 
+Или на сайте [ich.su](https://games.ich.su/ru/?windows/).
+
 Также существует безумный on-line вариант игр: [games.ich.su](https://games.ich.su)
