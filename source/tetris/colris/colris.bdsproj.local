@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017.02.14 11:46:31.613.bdsproj,I:\delphi\bds2006\ichsugames\source\tetris\colris\iwerg_colris.bdsproj=I:\delphi\bds2006\ichsugames\source\tetris\colris\colris.bdsproj</Transaction>
+    <Transaction>2017.02.20 13:40:05.937.pas,I:\delphi\bds2006\ichsugames\source\tetris\colris\Unit1.pas=I:\delphi\bds2006\ichsugames\source\base\f_ListVS.pas</Transaction>
+    <Transaction>2017.02.20 13:40:05.939.dfm,I:\delphi\bds2006\ichsugames\source\tetris\colris\Unit1.dfm=I:\delphi\bds2006\ichsugames\source\base\f_ListVS.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017.02.14 11:41:40.539.bdsproj,I:\delphi\bds2006\ichsugames\source\click\iwerg_click.bdsproj=I:\delphi\bds2006\ichsugames\source\click\click.bdsproj</Transaction>
+    <Transaction>2017.02.17 16:00:42.629.pas,I:\delphi\bds2006\ichsugames\source\click\Unit1.pas=I:\delphi\bds2006\ichsugames\source\base\f_ListA.pas</Transaction>
+    <Transaction>2017.02.17 16:00:42.630.dfm,I:\delphi\bds2006\ichsugames\source\click\Unit1.dfm=I:\delphi\bds2006\ichsugames\source\base\f_ListA.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

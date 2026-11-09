@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>  <Option Name="GUID">{F944AC54-8947-428D-8D00-D84053B62F6C}</Option>
+    </Option>
+	</PersonalityInfo>
+	<Default.Personality>
+    
+    <Projects>
+      <Projects Name="click.exe">..\click\click.bdsproj</Projects>
+      <Projects Name="color_tetris.exe">..\tetris\color_tetris\color_tetris.bdsproj</Projects>
+      <Projects Name="colris.exe">..\tetris\colris\colris.bdsproj</Projects>
+      <Projects Name="tetris.exe">..\tetris\tetris\tetris.bdsproj</Projects>
+      <Projects Name="Targets">click.exe color_tetris.exe colris.exe tetris.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+	<StarTeamAssociation></StarTeamAssociation>
+	<StarTeamNonRelativeFiles></StarTeamNonRelativeFiles>
+</BorlandProject>

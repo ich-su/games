@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.03.01 14:32:55.864.pas,E:\ich\_творенья\_проги\_iwergame\tetris\iw_tetris\Unit1.pas=E:\ich\_творенья\_проги\_iwergame\test\f_MainTest.pas</Transaction>
+    <Transaction>2007.03.01 14:32:55.880.dfm,E:\ich\_творенья\_проги\_iwergame\tetris\iw_tetris\Unit1.dfm=E:\ich\_творенья\_проги\_iwergame\test\f_MainTest.dfm</Transaction>
+    <Transaction>2007.03.07 00:49:05.782.pas,D:\ich\_творенья\_проги\_iwergame\base\m_DrawA.pas=D:\ich\_творенья\_проги\_iwergame\base\m_Draw.pas</Transaction>
+    <Transaction>2007.03.07 14:56:49.613.pas,E:\ich\_творенья\_проги\_iwergame\base\m_Color.pas=E:\ich\_творенья\_проги\_iwergame\base\m_ColorA.pas</Transaction>
+    <Transaction>2007.03.07 15:02:39.654.pas,E:\ich\_творенья\_проги\_iwergame\tetris\iw_tetris\Unit1.pas=E:\ich\_творенья\_проги\_iwergame\base\m_ColorDbl.pas</Transaction>
+    <Transaction>2007.03.07 15:15:23.845.pas,E:\ich\_творенья\_проги\_iwergame\tetris\iw_tetris\Unit1.pas=E:\ich\_творенья\_проги\_iwergame\tetris\iw_tetris\t_mColor.pas</Transaction>
+    <Transaction>2007.03.07 21:27:07.351.pas,D:\ich\_творенья\_проги\_iwergame\base\m_ColorA.pas=D:\ich\_творенья\_проги\_iwergame\base\m_Color.pas</Transaction>
+    <Transaction>2007.03.22 12:05:43.805.bdsproj,E:\ich\_творенья\_проги\_iwergame\tetris\tetris\iwerg_tetris.bdsproj=E:\ich\_творенья\_проги\_iwergame\tetris\tetris\n.bdsproj</Transaction>
+    <Transaction>2007.03.22 12:07:14.818.bdsproj,E:\ich\_творенья\_проги\_iwergame\tetris\tetris\n.bdsproj=E:\ich\_творенья\_проги\_iwergame\tetris\tetris\iwerg_tetris.bdsproj</Transaction>
+    <Transaction>2017.02.14 11:47:25.827.bdsproj,I:\delphi\bds2006\ichsugames\source\tetris\tetris\iwerg_tetris.bdsproj=I:\delphi\bds2006\ichsugames\source\tetris\tetris\tetris.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

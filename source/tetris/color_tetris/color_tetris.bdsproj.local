@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.03.27 13:39:50.857.pas,E:\ich\_творенья\_проги\_iwergame\source\tetris\color_tetris\Unit1.pas=E:\ich\_творенья\_проги\_iwergame\source\base\f_AboutA.pas</Transaction>
+    <Transaction>2007.03.27 13:39:50.857.dfm,E:\ich\_творенья\_проги\_iwergame\source\tetris\color_tetris\Unit1.dfm=E:\ich\_творенья\_проги\_iwergame\source\base\f_AboutA.dfm</Transaction>
+    <Transaction>2017.02.14 11:45:10.558.bdsproj,I:\delphi\bds2006\ichsugames\source\tetris\color_tetris\iwerg_color_tetris.bdsproj=I:\delphi\bds2006\ichsugames\source\tetris\color_tetris\color_tetris.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
