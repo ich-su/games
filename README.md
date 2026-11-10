@@ -10,7 +10,7 @@
 
 Скачать игры можно в [разделе релизов](https://github.com/ich-z/games/releases).
 
-Или на сайте [ich.su](https://games.ich.su/ru/?windows/). Там же больше информации.
+Или на сайте [**ich.su**](https://games.ich.su/ru/?windows/). Там же больше информации.
 
 Также существует безумный онлайн вариант игр: [games.ich.su](https://games.ich.su)
 
