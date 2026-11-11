@@ -8,7 +8,7 @@
 
 В 2017 был небольшой ремастеринг, связанный с поддержкой увеличенных PPI рабочего стола. 
 
-Скачать игры можно в [разделе релизов](https://github.com/ich-z/games/releases).
+Скачать игры можно в [разделе релизов](./../../releases).
 
 Или на сайте [**ich.su**](https://games.ich.su/windows/). Там же больше информации.
 
@@ -16,8 +16,8 @@
 
 Скриншоты:
 
-* ![](https://github.com/ich-z/games/blob/main/screenshots/01.png)
-* ![](https://github.com/ich-z/games/blob/main/screenshots/11.png)
-* ![](https://github.com/ich-z/games/blob/main/screenshots/20.png)
+* ![](./screenshots/01.png)
+* ![](./screenshots/11.png)
+* ![](./screenshots/20.png)
 
 [больше скриншотов](https://games.ich.su/windows/)
