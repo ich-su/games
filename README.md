@@ -17,7 +17,10 @@
 Скриншоты:
 
 * ![](./screenshots/01.png)
+* ![](./screenshots/04.png)
+* ![](./screenshots/08.png)
 * ![](./screenshots/11.png)
+* ![](./screenshots/13.png)
 * ![](./screenshots/20.png)
 
 [больше скриншотов](https://games.ich.su/windows/)
