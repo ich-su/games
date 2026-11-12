@@ -28,5 +28,6 @@
 
 страница проекта на гитхабе:
 [github.com/ich-su/games](https://github.com/ich-su/games)
+
 страница на games.ich.su:
 [games.ich.su/windows](https://games.ich.su/windows/)
